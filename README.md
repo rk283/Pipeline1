@@ -1,1 +1,3 @@
-# Pipeline1
+pipeline {
+    /* insert Declarative Pipeline here */
+}
